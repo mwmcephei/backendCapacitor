@@ -1,0 +1,41 @@
+ç;IT Security Investment Initiative;;;;;;;;;;;;;;;;;;;
+;Status overview;;HY1 2021;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+#;Focus Area;#;MID;Global Security Initiative Measure;Progress KPIs;(Baseline/Target);Measure Lead ;Approved Budget;Labor;Non-Labor;Risk;Budget ;Artefacts;;;;;;;
+1;Slow down hackers;KPI (2);M252;Cyber-TIBER, Global Regulatory driven Red-Team;# of TIBER Pre-tests and TIBER tests started;(0/6);Andreas Wagner;2,500k€;2,500k€;0k€;;;;;;;;;;
+2;Slow down hackers;KPI (3);M253;Secret Vault and internal TLS Certificate Mgmt.;# of services on-boarded*;(0/6);Alexander Heinze;500k€;365k€;135k€;;;;;;;;;;
+3;Slow down hackers;KPI (4);M254;DevSecOps Community for Cloud Sec.;# of trained Security Ambassadors;(0/20);Marc Bochtler;850k€;725k€;125k€;;;;;;;;;;
+4;Slow down hackers;KPI (5);M255;Accelerated MFA & Integration of critical services;# of users rolled-out to MFA target landscape (Veridium instalations);(0/10000);Alexander Heinze;990k€;990k€;0k€;;;;;;;;;;
+5;Slow down hackers;KPI (6);M256;Microsoft Native Security stack for end devices;# of security services validated against MS Sec Stack and recommendation paper created*;(0/5);Clemens Friedrich;300k€;300k€;0k€;;;;;;;;;;
+6;Slow down hackers;KPI (7);M257;Industrialized Application Pen Test Approach;# of Service Design documents created and PoCs performed;(0/12);Clemens Friedrich;1050k€;850k€;200k€;;;;;;;;;;
+7;Slow down hackers;KPI (8);M258;Cloud WAF set-up;# of Service Portfolio Management (SPM) documents created and submitted;(0/3);Clemens Friedrich;800k€;700k€;100k€;;;;;;;;;;
+8;Increase detection;KPI (9);M259;"Cloud Integration and ITMP onboarding into ACDC
+";# of Cloud log sources onboarded to ACDC ;(0/6);Lucas Tscherter;720k€;640k€;80k€;;;;;;;;;;
+9;Increase detection;KPI (10a);M260;"Automation & Realtime Reporting of incident response
+";# of integrations or automations;(0/16);Lucas Tscherter;835k€;765k€;70k€;;;;;;;;;;
+10;Increase detection;KPI (11);M261;"Advanced Detection by Deception Set-up
+";# of DCs and OEs covered with deception;(0/7);Lucas Tscherter;1780k€;1170k€;330k€;;;;;;;;;;
+11;Increase detection;KPI (12a);M262;Micro-segmentation of business-critical apps;# of business critical apps protected by Illumio;(0/40);Clemens Friedrich;900k€;600k€;300k€;;;;;;;;;;
+12;Reduce damage;KPI (13);M263;Actionable Vulnerability Management;# of Servers remediated in the course of remediation campaigns;(0/800);Clemens Friedrich;730k€;680k€;50k€;;;;;;;;;;
+13;Reduce damage;KPI (14);M265;Crypsis Retainer Services;# of successful support cases covering  three categories*;(0/8);Gerhard Günther;500k€;500k€;0k€;;;;;;;;;;
+14;Reduce damage;KPI (15);M266;Steering Concept for IS Group Services;# of created documents*;(0/8);Rasa Rintallo;300k€;300k€;0k€;;;;;;;;;;
+15;Streamline compliance;KPI (16);M267;Double Key encryption for US Cloud Act;# of reached artefacts*;(0/7);Julian Bönigk;650k€;650k€;0k€;;;;;;;;;;
+16;Streamline compliance;KPI (17);M268;Integrated Governance Platform for group solutions;# of design and effectiveness milestones for the described artefacts*;(0/7);Michael Habel;965k€;965k€;0k€;;;;;;;;;;
+17;Streamline compliance;KPI (18);M269;Automated Toxic Asset tracking;# of OEs on-boarded/reported in the Toxic Asset dashboard  ;(0/50);Benjamin Warnholz;315k€;305k€;10k€;;;;;;;;;;
+18;Streamline compliance;KPI (19a);M270;Standardization of security assessments & processes;# of reached milestones*;(0/6);Tim Raffler;612k€;612k€;0k€;;;;;;;;;;
+19;Build Security org/skills;KPI (20);M271;Next Level Phishing Simulation;# of Service Portfolio Management (SPM) documents created and submitted;(0/20);Clemens Friedrich;635k€;465k€;170k€;;;;;;;;;;
+20;Build Security org/skills;;M264;Next Level Phishing Simulation: Email Security;# of OEs with one awareness training on Sender Policy Framework (SPF);(0/50);Frank Markussen;125k€;125k€;0k€;;;;;;;;;;
+21;Build Security org/skills;KPI (21);M272;Embedding Security into Applications & Architecture;# of Enterprise Security Architecture (ESA) documents which defines IT Security Architecture and ESA Process*;(0/6);Cenk Tasdan;320k€;320k€;0k€;;;;;;;;;;
+22;Build Security org/skills;KPI (22);M273;Distributing the Human Firewall;# of delivered training products*;(0/10);Armin Anzenbacher;500k€;400k€;100k€;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+; - confidential - ;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
